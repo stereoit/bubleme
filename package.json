@@ -1,0 +1,20 @@
+{
+  "name": "bubleme",
+  "version": "1.0.0",
+  "description": "",
+  "main": "input.js",
+  "dependencies": {},
+  "devDependencies": {
+    "react": "^15.1.0",
+    "react-dom": "^15.1.0",
+    "rollup-plugin-buble": "^0.10.0",
+    "rollup-plugin-uglify": "^1.0.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "rollup -c"
+  },
+  "author": "",
+  "private": true,
+  "license": "ISC"
+}
