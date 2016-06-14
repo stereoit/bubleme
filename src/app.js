@@ -1,7 +1,7 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
-import { Input } from './input';
+import HelloWorld from './HelloWorld';
 
 
-ReactDOM.render(<Input />, document.getElementById('app'));
+ReactDOM.render(<HelloWorld />, document.getElementById('app'));
 
