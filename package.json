@@ -3,11 +3,16 @@
   "version": "1.0.0",
   "description": "",
   "main": "input.js",
-  "dependencies": {},
-  "devDependencies": {
+  "dependencies": {
     "react": "^15.1.0",
-    "react-dom": "^15.1.0",
+    "react-dom": "^15.1.0"
+  },
+  "devDependencies": {
     "rollup-plugin-buble": "^0.10.0",
+    "rollup-plugin-commonjs": "^3.0.0",
+    "rollup-plugin-filesize": "^0.3.4",
+    "rollup-plugin-node-resolve": "^1.7.0",
+    "rollup-plugin-replace": "^1.1.0",
     "rollup-plugin-uglify": "^1.0.0"
   },
   "scripts": {
