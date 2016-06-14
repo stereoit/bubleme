@@ -1,7 +1,7 @@
 # bubleme
-Simple template to put together rollup.js + bublee + reactjs
+Simple template that puts together rollup.js + bublee + reactjs
 
-It was necessary to add
+Uses following plugins:
 
  - `rollup-plugin-node-resolve` - for node modules resolution
  - `rollup-plugin-commonjs` - to convert CommonJS modules to ES6 (React)
